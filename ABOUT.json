@@ -1,0 +1,9 @@
+{
+  "deps": [],
+  "description": "Fast reasoning about the state of local git repos.",
+  "image": "",
+  "repo": "mattborn/",
+  "tags": ["CLI", "OSS", "Today"],
+  "title": "Gitfarm 🟢",
+  "urls": ["git.farm"]
+}
