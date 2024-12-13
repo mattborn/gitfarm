@@ -2,8 +2,8 @@
   "deps": [],
   "description": "Fast reasoning about the state of local git repos.",
   "image": "",
-  "repo": "mattborn/",
-  "tags": ["CLI", "OSS", "Today"],
+  "repo": "mattborn/gitfarm",
+  "tags": ["CLI", "OSS", "Snooze"],
   "title": "Gitfarm 🟢",
   "urls": ["git.farm"]
 }
