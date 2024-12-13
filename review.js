@@ -18,9 +18,9 @@ async function reviewFolder(folder) {
     const pendingFiles = status.split('\n').filter(line => line.trim()).length
 
     if (pendingFiles > 0) {
-      console.log(`${folder}: ${commit} \x1b[33m(${pendingFiles} files in limbo)\x1b[0m`)
+      console.log(`${folder}: ${commit} \x1b[33m${pendingFiles}\x1b[0m`)
     } else {
-      console.log(`${folder}: ${commit}`)
+      console.log(`${folder}: ${commit} 🟢`)
     }
     return
   }
